@@ -1,0 +1,4 @@
+Pobieraj od użytkownika dwie liczby całkowite do zmiennych a oraz b. Pobieranie kończy się, kiedy w zmiennej a będzie 
+tyle samo cyfr parzystych, co w zmiennej b cyfr nieparzystych. Następnie wypisz tę liczbę spośród a oraz b, która posiada
+więcej dzielników. W przypadku równej ilości dzielników wyznacz odchylenie standardowe tych dwóch liczb. Zastosuj przejrzysty
+podział na funkcje i zadbaj o optymalne podejście.
