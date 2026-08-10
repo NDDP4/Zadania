@@ -1,0 +1,6 @@
+Napisz program, który wczytuje liczbę N, a następnie współrzędne N punktów na płaszczyźnie (x, y są liczbami całkowitymi).
+Zastosuj odpowiednie kontenery do przechowania pobranych punktów. Następnie wyznacz i wypisz:
+a. parę punktów położonych najdalej od siebie (w sensie odległości euklidesowej) wraz z tą odległością,
+b. liczbę punktów leżących ściśle w pierwszej ćwiartce układu współrzędnych (x > 0 i y > 0).
+c. podaj trójki punktów, z których można zbudować trójkąt równoboczny
+W kodzie zastosuj podział na funkcje.
