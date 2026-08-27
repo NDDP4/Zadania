@@ -1,0 +1,3 @@
+Przygotuj namedtuple, w którym znajdują się dane produktu: nazwa, cena, zniżka. Utwórz listę kilku obiektów tego 
+namedtuple - listę produktów. Pogrupuj produkty według ceny z uwzględnieniem zniżki. Wskaż te produkty, których 
+cena z uwzględnieniem zniżki okazała się największa.
