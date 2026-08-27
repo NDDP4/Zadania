@@ -1,0 +1,12 @@
+W tablicy / liście mamy kolejne pary liczb dwucyfrowych, np.
+[
+    (12, 35),
+    (31, 22),
+    (34, 56)
+]
+Dla każdej pary wykonaj operacje:
+- wyznacz większą z cyfr jedności liczb w parze - oznaczmy ja U,
+- wyznacz mniejszą z cyfr dziesiatek liczb w parze - oznaczmy ja D,
+- stwórz nową liczbę, w której cyfra jednosci jest D oraz cyfra dziesiatek jest U
+- dla i-tej pary tak wyznaczona liczba staje się i-tym elementem w nowej liscie / tablicy
+Wyznacz z nowo utworzonej listy / tablicy największą oraz najmniejszą liczbę i wyświetl je.
