@@ -1,0 +1,8 @@
+Stwórz namedtuple, która będzie przechowywała informacje o pracowniku. Struktura powinna zawierać pola: imię, 
+nazwisko, stanowisko, zarobki. Następnie stwórz kilka instancji tej struktury i zapisz je w liście.
+-> Znajdź pracowników, którzy zajmują określone stanowisko (wybierz jedno z tych, które wprowadziłaś)
+-> Znajdź pracownika / pracowników, których zarobki znajdują się w określonym przedziale (dobierz samodzielnie 
+   ten przedział)
+-> Usuń pracowników, którzy pracują na określonym stanowisku i zarabiają więcej niż podana kwota (ustal 
+   samodzielnie konkretne stanowisko i granicę zarobków)
+-> Zmodyfikuj zarobki pracowników na określonym stanowisku, przyznając im 10% podwyżki.
